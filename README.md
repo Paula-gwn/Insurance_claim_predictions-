@@ -1,4 +1,5 @@
 Supervised Machine learning methods project:  
+
 The task is to apply various ML algorithms to build a model explaining travel insurance claim outcomes based on the training sample and generate predictions for all observations from the test sample.
 
 The dataset includes travel insurance policy records with the following columns:
